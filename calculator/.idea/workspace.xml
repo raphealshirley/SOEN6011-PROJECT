@@ -6,15 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d10d26d-c541-4c85-a493-15085e761d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/rebar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/calculator_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-    </list>
+    <list default="true" id="9d10d26d-c541-4c85-a493-15085e761d2c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/calculator/CalculatorView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+            <state relative-caret-position="60">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1922#1923#0" expanded="true" />
@@ -196,7 +188,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564170094903" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564171368867" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -302,12 +294,12 @@
       <updated>1562984693279</updated>
       <workItem from="1562984697284" duration="13464000" />
       <workItem from="1564088476253" duration="7379000" />
-      <workItem from="1564168202272" duration="1824000" />
+      <workItem from="1564168202272" duration="2522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22667000" />
+    <option name="totallyTimeSpent" value="23365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,7 +312,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="241" y="23" width="1086" height="651" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32854405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,18 +322,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291592" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49712643" visible="true" weight="0.2898032" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49712643" weight="0.2898032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49904215" weight="0.3291592" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49808428" weight="0.3291592" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50287354" side_tool="true" visible="true" weight="0.2898032" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.26819924" side_tool="true" visible="true" weight="0.2844365" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="CheckStyle" order="13" sideWeight="0.73275864" weight="0.2844365" />
+      <window_info active="true" anchor="bottom" id="CheckStyle" order="13" sideWeight="0.7318008" visible="true" weight="0.2844365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/calculator/CalculatorView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1922#1923#0" expanded="true" />
