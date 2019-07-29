@@ -5,6 +5,7 @@ import calculator.CalculatorModel;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.io.BufferedReader;
 import java.io.FileReader;
 
 import static org.junit.Assert.assertEquals;
@@ -67,14 +68,19 @@ public class TestCalculator {
   @Test
   public void testReliability() {
     try {
-      FileReader fr = new FileReader("../data.txt");
-      FileReader frr = new FileReader("../result.txt");
-      int j = 0;
-      while (j++ < 100) {
-        double input = fr.read();
-        double exresult = frr.read();
-        double result = calculatorController.calculate(input);
+      FileReader fr = new FileReader("./data.txt");
+      FileReader frr = new FileReader("./result.txt");
+      BufferedReader reader = new BufferedReader(fr);
+      String input = reader.readLine();
+      BufferedReader reader2 = new BufferedReader(frr);
+      String input2 = reader2.readLine();
+      while (input != null && input2 !=null) {
+        double x = Double.valueOf(input);
+        double result = calculatorController.calculate(x);
+        double exresult = Double.valueOf(input2);
         assertEquals(exresult, result, 0.1);
+        input = reader.readLine();
+        input2 = reader2.readLine();
       }
       fr.close();
       frr.close();
