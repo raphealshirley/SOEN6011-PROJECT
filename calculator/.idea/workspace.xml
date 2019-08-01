@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d10d26d-c541-4c85-a493-15085e761d2c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/calculator_jar/calculator.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/calculator_jar/calculator.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +134,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="614" />
+    <option name="x" value="194" />
     <option name="y" value="43" />
     <option name="width" value="1086" />
     <option name="height" value="651" />
@@ -146,8 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +195,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,6 +393,7 @@
       <workItem from="1564432553480" duration="877000" />
       <workItem from="1564508330383" duration="1575000" />
       <workItem from="1564513134058" duration="438000" />
+      <workItem from="1564621258463" duration="67000" />
     </task>
     <servers />
   </component>
@@ -415,7 +415,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36086000" />
+    <option name="totallyTimeSpent" value="36153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,17 +427,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="614" y="43" width="1086" height="651" extended-state="0" />
-    <editor active="true" />
+    <frame x="194" y="43" width="1086" height="651" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3065134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31226054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Reviews" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49712643" weight="0.3291592" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48659003" weight="0.40071556" />
@@ -447,12 +445,12 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49808428" weight="0.3291592" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49616858" weight="0.3291592" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.27394637" side_tool="true" visible="true" weight="0.2844365" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.27490422" side_tool="true" visible="true" weight="0.2844365" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49712643" weight="0.3291592" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49904215" weight="0.3291592" />
-      <window_info anchor="bottom" id="CheckStyle" order="13" sideWeight="0.72605366" visible="true" weight="0.2844365" />
-      <window_info anchor="right" id="News Feed" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" sideWeight="0.7250958" visible="true" weight="0.2844365" />
+      <window_info anchor="bottom" id="Reviews" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -464,6 +462,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="REPL" order="10" side_tool="true" />
+      <window_info anchor="right" id="News Feed" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
